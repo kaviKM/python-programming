@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 public class parse{
-      public static void main(String aa[]){
+      public static void main(String a[]){
           String p;
           Scanner m=new Scanner(System.in);
           p=m.next();
